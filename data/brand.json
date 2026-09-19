@@ -1,0 +1,1314 @@
+{
+  "slug": "opcglobal",
+  "folder": "OPCGLOBAL",
+  "name": "OPC Global",
+  "nativeName": "欧匹赛全球联盟",
+  "description": "OPC Global is a global alliance IP for collaboration, standards, and resource connection.",
+  "officialWebsite": "https://opcglobal.ai",
+  "mainLanguage": "en",
+  "intro": {
+    "zh": "欧匹赛全球联盟是面向全球协作、标准与资源连接的 IP。",
+    "en": "OPC Global is a global alliance IP for collaboration, standards, and resource connection."
+  },
+  "business": {
+    "zh": "全球联盟、标准建设与跨区域协作。",
+    "en": "Global alliance, standards, and cross-region collaboration."
+  },
+  "primaryGuide": "",
+  "theme": {
+    "mode": "light",
+    "primary": "#1D3557",
+    "accent": "#B79B63",
+    "secondary": "#A23E3E",
+    "surface": "#F3F5F6",
+    "paper": "#FFFFFF",
+    "ink": "#162130",
+    "muted": "#596776",
+    "line": "rgba(29, 53, 87, 0.16)",
+    "keywords": [
+      "deep blue",
+      "graphite",
+      "gold",
+      "global alliance",
+      "standards"
+    ]
+  },
+  "classification": {
+    "tracks": {
+      "zh": [
+        "全球联盟",
+        "标准建设",
+        "跨区域协作"
+      ],
+      "en": [
+        "Global alliance",
+        "Standards",
+        "Cross-region collaboration"
+      ]
+    },
+    "audiences": {
+      "zh": [
+        "国际伙伴",
+        "联盟机构",
+        "标准制定团队"
+      ],
+      "en": [
+        "International partners",
+        "Alliance institutions",
+        "Standards teams"
+      ]
+    },
+    "tags": {
+      "zh": [
+        "全球",
+        "联盟",
+        "标准",
+        "协作"
+      ],
+      "en": [
+        "Global",
+        "Alliance",
+        "Standards",
+        "Collaboration"
+      ]
+    }
+  },
+  "assetKey": "opcglobal",
+  "mainName": "OPC Global",
+  "mainLocale": "EN",
+  "profile": {
+    "officialWebsite": "https://opcglobal.ai",
+    "mainLanguage": "en",
+    "mainLocale": "EN",
+    "intro": {
+      "zh": "欧匹赛全球联盟是面向全球协作、标准与资源连接的 IP。",
+      "en": "OPC Global is a global alliance IP for collaboration, standards, and resource connection."
+    },
+    "business": {
+      "zh": "全球联盟、标准建设与跨区域协作。",
+      "en": "Global alliance, standards, and cross-region collaboration."
+    },
+    "notes": {
+      "zh": "",
+      "en": ""
+    },
+    "classification": {
+      "tracks": {
+        "zh": [
+          "全球联盟",
+          "标准建设",
+          "跨区域协作"
+        ],
+        "en": [
+          "Global alliance",
+          "Standards",
+          "Cross-region collaboration"
+        ]
+      },
+      "audiences": {
+        "zh": [
+          "国际伙伴",
+          "联盟机构",
+          "标准制定团队"
+        ],
+        "en": [
+          "International partners",
+          "Alliance institutions",
+          "Standards teams"
+        ]
+      },
+      "tags": {
+        "zh": [
+          "全球",
+          "联盟",
+          "标准",
+          "协作"
+        ],
+        "en": [
+          "Global",
+          "Alliance",
+          "Standards",
+          "Collaboration"
+        ]
+      }
+    }
+  },
+  "display": {
+    "default": {
+      "language": "en",
+      "name": "OPC Global"
+    },
+    "zh": {
+      "name": "欧匹赛全球联盟",
+      "secondaryName": "OPC Global"
+    },
+    "en": {
+      "name": "OPC Global",
+      "secondaryName": "欧匹赛全球联盟"
+    }
+  },
+  "notes": {
+    "zh": "",
+    "en": ""
+  },
+  "recordClass": "owned",
+  "primaryIndustry": "alliances-social-organizations",
+  "industries": [
+    "alliances-social-organizations",
+    "business-professional-services"
+  ],
+  "ipType": "alliance-community-ip",
+  "lifecycleStatus": "active",
+  "guidelineMode": "independent",
+  "parentCapable": false,
+  "architectureRoles": [
+    "standalone"
+  ],
+  "version": {
+    "hash": "17e8486df5cc2896049164fdef9c876e5790897b",
+    "shortHash": "17e8486",
+    "date": "2026-09-19T20:28:40+08:00",
+    "message": "Update ksamint repository references and rename Sidera sources to Tiansight",
+    "url": "https://github.com/ksamint/tableai_designaha/commit/17e8486df5cc2896049164fdef9c876e5790897b"
+  },
+  "historyUrl": "api/history/opcglobal.json",
+  "history": [
+    {
+      "hash": "17e8486df5cc2896049164fdef9c876e5790897b",
+      "shortHash": "17e8486",
+      "date": "2026-09-19T20:28:40+08:00",
+      "message": "Update ksamint repository references and rename Sidera sources to Tiansight",
+      "url": "https://github.com/ksamint/tableai_designaha/commit/17e8486df5cc2896049164fdef9c876e5790897b",
+      "sourcePaths": [
+        "config/brands.json",
+        "OPCGLOBAL"
+      ]
+    },
+    {
+      "hash": "6c28043d87c25fa124e6997cafb2c5e6492ffc0e",
+      "shortHash": "6c28043",
+      "date": "2026-08-14T08:33:39+08:00",
+      "message": "feat: streamline brand pages and publish tiansight slug",
+      "url": "https://github.com/ksamint/tableai_designaha/commit/6c28043d87c25fa124e6997cafb2c5e6492ffc0e",
+      "sourcePaths": [
+        "config/brands.json",
+        "OPCGLOBAL"
+      ]
+    },
+    {
+      "hash": "b60797e79deb0f37cae96466bf7fc70987b506c2",
+      "shortHash": "b60797e",
+      "date": "2026-08-12T15:57:02+08:00",
+      "message": "test: accept uncached temporary route recovery",
+      "url": "https://github.com/ksamint/tableai_designaha/commit/b60797e79deb0f37cae96466bf7fc70987b506c2",
+      "sourcePaths": [
+        "config/brands.json",
+        "OPCGLOBAL"
+      ]
+    },
+    {
+      "hash": "bcd28bc5dcefd3d090488e9f90ce43ec673b2ec6",
+      "shortHash": "bcd28bc",
+      "date": "2026-08-04T06:00:43+08:00",
+      "message": "Rename 侍天 English brand name to tiansight",
+      "url": "https://github.com/ksamint/tableai_designaha/commit/bcd28bc5dcefd3d090488e9f90ce43ec673b2ec6",
+      "sourcePaths": [
+        "config/brands.json",
+        "OPCGLOBAL"
+      ]
+    },
+    {
+      "hash": "735ff5e693bb2ee2fe4dbd66a2aa337e1d8368bf",
+      "shortHash": "735ff5e",
+      "date": "2026-07-24T09:25:16+08:00",
+      "message": "feat: publish OPC Global brand assets",
+      "url": "https://github.com/ksamint/tableai_designaha/commit/735ff5e693bb2ee2fe4dbd66a2aa337e1d8368bf",
+      "sourcePaths": [
+        "config/brands.json",
+        "OPCGLOBAL"
+      ]
+    },
+    {
+      "hash": "fa30da14e08bc70e600864c069a2cc55cf38631f",
+      "shortHash": "fa30da1",
+      "date": "2026-07-23T09:50:41+08:00",
+      "message": "feat: move Sidera to pale manuscript theme",
+      "url": "https://github.com/ksamint/tableai_designaha/commit/fa30da14e08bc70e600864c069a2cc55cf38631f",
+      "sourcePaths": [
+        "config/brands.json",
+        "OPCGLOBAL"
+      ]
+    }
+  ],
+  "publicSlug": "opcglobal",
+  "url": "brand.html?brand=opcglobal",
+  "apiUrl": "api/brands/opcglobal.json",
+  "status": "placeholder",
+  "guides": [],
+  "tokens": [],
+  "images": [
+    {
+      "assetId": "opcglobal-hero-opcglobal-brand-hero-8351935e9abc",
+      "path": "OPCGLOBAL/assets/brand-images/opcglobal-brand-hero.png",
+      "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-hero-opcglobal-brand-hero-8351935e9abc/8351935e9abc74b963309f2ec5677f22a9eaf4998c0e0cb59ecd55be42e4fe40/original.png",
+      "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-hero-opcglobal-brand-hero-8351935e9abc/8351935e9abc74b963309f2ec5677f22a9eaf4998c0e0cb59ecd55be42e4fe40/original.png",
+      "title": "opcglobal brand hero",
+      "format": "PNG",
+      "bytes": 1923799,
+      "size": "1.83 MB",
+      "width": 1672,
+      "height": 941,
+      "dimensions": "1672 x 941 px",
+      "sha256": "8351935e9abc74b963309f2ec5677f22a9eaf4998c0e0cb59ecd55be42e4fe40",
+      "access": "public",
+      "colorway": "",
+      "primaryAsset": false,
+      "backgroundTransparent": false,
+      "documentLogo": false
+    },
+    {
+      "assetId": "opcglobal-logo-black-jpg-76a48309a215",
+      "path": "OPCGLOBAL/assets/brand-images/black-jpg.jpg",
+      "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-black-jpg-76a48309a215/76a48309a2156fdf1f1918955f202a1533bc708bec99c0bb65351942a6d169fa/original.jpg",
+      "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-black-jpg-76a48309a215/76a48309a2156fdf1f1918955f202a1533bc708bec99c0bb65351942a6d169fa/original.jpg",
+      "title": "OPC Global black logo",
+      "format": "JPG",
+      "bytes": 79558,
+      "size": "77.7 KB",
+      "width": 1063,
+      "height": 1063,
+      "dimensions": "1063 x 1063 px",
+      "sha256": "76a48309a2156fdf1f1918955f202a1533bc708bec99c0bb65351942a6d169fa",
+      "access": "public",
+      "colorway": "black",
+      "primaryAsset": false,
+      "backgroundTransparent": false,
+      "documentLogo": false
+    },
+    {
+      "assetId": "opcglobal-logo-black-transparent-ca9f06b66f58",
+      "path": "OPCGLOBAL/assets/brand-images/black-transparent.png",
+      "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-black-transparent-ca9f06b66f58/ca9f06b66f583a3c3eb8261316dfd299790f1f614fdcdf7a7d3965f3fd8000ed/original.png",
+      "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-black-transparent-ca9f06b66f58/ca9f06b66f583a3c3eb8261316dfd299790f1f614fdcdf7a7d3965f3fd8000ed/original.png",
+      "title": "OPC Global black transparent logo",
+      "format": "PNG",
+      "bytes": 3932,
+      "size": "3.84 KB",
+      "width": 256,
+      "height": 256,
+      "dimensions": "256 x 256 px",
+      "sha256": "ca9f06b66f583a3c3eb8261316dfd299790f1f614fdcdf7a7d3965f3fd8000ed",
+      "access": "public",
+      "colorway": "black",
+      "primaryAsset": false,
+      "backgroundTransparent": true,
+      "documentLogo": true
+    },
+    {
+      "assetId": "opcglobal-logo-blue-jpg-78995d0f5c1e",
+      "path": "OPCGLOBAL/assets/brand-images/blue-jpg.jpg",
+      "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-blue-jpg-78995d0f5c1e/78995d0f5c1e8a84b6cab4fbac635261a5c078b342dc14805547b18edae565a4/original.jpg",
+      "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-blue-jpg-78995d0f5c1e/78995d0f5c1e8a84b6cab4fbac635261a5c078b342dc14805547b18edae565a4/original.jpg",
+      "title": "OPC Global blue logo",
+      "format": "JPG",
+      "bytes": 98119,
+      "size": "95.8 KB",
+      "width": 1063,
+      "height": 1063,
+      "dimensions": "1063 x 1063 px",
+      "sha256": "78995d0f5c1e8a84b6cab4fbac635261a5c078b342dc14805547b18edae565a4",
+      "access": "public",
+      "colorway": "blue",
+      "primaryAsset": false,
+      "backgroundTransparent": false,
+      "documentLogo": false
+    },
+    {
+      "assetId": "opcglobal-hero-primary-blue-c970696e04ab",
+      "path": "OPCGLOBAL/assets/brand-images/primary-blue.png",
+      "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-hero-primary-blue-c970696e04ab/c970696e04ab2859dd66c7b85c2c1b461d06ede4e2d65ec6a97d9c11db1396b3/original.png",
+      "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-hero-primary-blue-c970696e04ab/c970696e04ab2859dd66c7b85c2c1b461d06ede4e2d65ec6a97d9c11db1396b3/original.png",
+      "title": "OPC Global primary blue logo",
+      "format": "PNG",
+      "bytes": 4172,
+      "size": "4.07 KB",
+      "width": 256,
+      "height": 256,
+      "dimensions": "256 x 256 px",
+      "sha256": "c970696e04ab2859dd66c7b85c2c1b461d06ede4e2d65ec6a97d9c11db1396b3",
+      "access": "public",
+      "colorway": "blue",
+      "primaryAsset": true,
+      "backgroundTransparent": true,
+      "documentLogo": true
+    },
+    {
+      "assetId": "opcglobal-logo-vector-b58c3be7390a",
+      "path": "OPCGLOBAL/assets/brand-images/vector.svg",
+      "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-vector-b58c3be7390a/b58c3be7390a1b625de8ad7d5c953fe8b95d1467692977c338c9b255f266502c/original.svg",
+      "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-vector-b58c3be7390a/b58c3be7390a1b625de8ad7d5c953fe8b95d1467692977c338c9b255f266502c/original.svg",
+      "title": "OPC Global vector logo",
+      "format": "SVG",
+      "bytes": 1603,
+      "size": "1.57 KB",
+      "width": 255,
+      "height": 255,
+      "dimensions": "255 x 255 px",
+      "sha256": "b58c3be7390a1b625de8ad7d5c953fe8b95d1467692977c338c9b255f266502c",
+      "access": "public",
+      "colorway": "monochrome",
+      "primaryAsset": false,
+      "backgroundTransparent": false,
+      "documentLogo": false
+    },
+    {
+      "assetId": "opcglobal-logo-white-jpg-d5eff2b4da39",
+      "path": "OPCGLOBAL/assets/brand-images/white-jpg.jpg",
+      "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-white-jpg-d5eff2b4da39/d5eff2b4da3934baa24e81764426d26de564afd1b050fad8e36eacda40633da5/original.jpg",
+      "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-white-jpg-d5eff2b4da39/d5eff2b4da3934baa24e81764426d26de564afd1b050fad8e36eacda40633da5/original.jpg",
+      "title": "OPC Global white logo",
+      "format": "JPG",
+      "bytes": 79832,
+      "size": "78.0 KB",
+      "width": 1063,
+      "height": 1063,
+      "dimensions": "1063 x 1063 px",
+      "sha256": "d5eff2b4da3934baa24e81764426d26de564afd1b050fad8e36eacda40633da5",
+      "access": "public",
+      "colorway": "white",
+      "primaryAsset": false,
+      "backgroundTransparent": false,
+      "documentLogo": false
+    },
+    {
+      "assetId": "opcglobal-logo-white-transparent-f1f76209c767",
+      "path": "OPCGLOBAL/assets/brand-images/white-transparent.png",
+      "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-white-transparent-f1f76209c767/f1f76209c76744d1e9f7b4b692ab6f3b01e4df4e0e3b2a3cbb6e310be02dc8fe/original.png",
+      "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-white-transparent-f1f76209c767/f1f76209c76744d1e9f7b4b692ab6f3b01e4df4e0e3b2a3cbb6e310be02dc8fe/original.png",
+      "title": "OPC Global white transparent logo",
+      "format": "PNG",
+      "bytes": 4194,
+      "size": "4.10 KB",
+      "width": 256,
+      "height": 256,
+      "dimensions": "256 x 256 px",
+      "sha256": "f1f76209c76744d1e9f7b4b692ab6f3b01e4df4e0e3b2a3cbb6e310be02dc8fe",
+      "access": "public",
+      "colorway": "white",
+      "primaryAsset": false,
+      "backgroundTransparent": true,
+      "documentLogo": true
+    },
+    {
+      "assetId": "opcglobal-logo-yellow-jpg-0c3d48dedef6",
+      "path": "OPCGLOBAL/assets/brand-images/yellow-jpg.jpg",
+      "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-yellow-jpg-0c3d48dedef6/0c3d48dedef6da1720ab08fe37784b2e173503066821ebb0531cf15561fa481b/original.jpg",
+      "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-yellow-jpg-0c3d48dedef6/0c3d48dedef6da1720ab08fe37784b2e173503066821ebb0531cf15561fa481b/original.jpg",
+      "title": "OPC Global yellow logo",
+      "format": "JPG",
+      "bytes": 134717,
+      "size": "132 KB",
+      "width": 1063,
+      "height": 1063,
+      "dimensions": "1063 x 1063 px",
+      "sha256": "0c3d48dedef6da1720ab08fe37784b2e173503066821ebb0531cf15561fa481b",
+      "access": "public",
+      "colorway": "yellow",
+      "primaryAsset": false,
+      "backgroundTransparent": false,
+      "documentLogo": false
+    },
+    {
+      "assetId": "opcglobal-logo-yellow-transparent-9f71f58faaf3",
+      "path": "OPCGLOBAL/assets/brand-images/yellow-transparent.png",
+      "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-yellow-transparent-9f71f58faaf3/9f71f58faaf3a693e9777af9cd6401cf46d927e7f78effd5b0a4d1eb1a9ba87d/original.png",
+      "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-yellow-transparent-9f71f58faaf3/9f71f58faaf3a693e9777af9cd6401cf46d927e7f78effd5b0a4d1eb1a9ba87d/original.png",
+      "title": "OPC Global yellow transparent logo",
+      "format": "PNG",
+      "bytes": 6355,
+      "size": "6.21 KB",
+      "width": 256,
+      "height": 256,
+      "dimensions": "256 x 256 px",
+      "sha256": "9f71f58faaf3a693e9777af9cd6401cf46d927e7f78effd5b0a4d1eb1a9ba87d",
+      "access": "public",
+      "colorway": "yellow",
+      "primaryAsset": false,
+      "backgroundTransparent": true,
+      "documentLogo": true
+    }
+  ],
+  "assetManifest": [
+    {
+      "id": "opcglobal-logo-black-jpg-76a48309a215",
+      "ownerType": "owned-ip",
+      "ownerId": "opcglobal",
+      "role": "logo",
+      "title": "OPC Global black logo",
+      "access": "public",
+      "sourcePath": "OPCGLOBAL/assets/brand-images/black-jpg.jpg",
+      "sourceFilename": "黑色.jpg",
+      "sha256": "76a48309a2156fdf1f1918955f202a1533bc708bec99c0bb65351942a6d169fa",
+      "mimeType": "image/jpeg",
+      "extension": "jpg",
+      "bytes": 79558,
+      "size": "77.7 KB",
+      "width": 1063,
+      "height": 1063,
+      "dimensions": "1063 x 1063 px",
+      "objectKey": "public/opcglobal/opcglobal-logo-black-jpg-76a48309a215/76a48309a2156fdf1f1918955f202a1533bc708bec99c0bb65351942a6d169fa/original.jpg",
+      "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-black-jpg-76a48309a215/76a48309a2156fdf1f1918955f202a1533bc708bec99c0bb65351942a6d169fa/original.jpg",
+      "legacyUrls": [],
+      "status": "ready",
+      "version": 1,
+      "metadata": {
+        "importGroup": "opcglobal-official-logo-set",
+        "colorway": "black",
+        "primary": false,
+        "originalRelativePath": "黑色/黑色.jpg"
+      },
+      "backgroundTransparent": false,
+      "documentLogo": false
+    },
+    {
+      "id": "opcglobal-logo-black-transparent-ca9f06b66f58",
+      "ownerType": "owned-ip",
+      "ownerId": "opcglobal",
+      "role": "logo",
+      "title": "OPC Global black transparent logo",
+      "access": "public",
+      "sourcePath": "OPCGLOBAL/assets/brand-images/black-transparent.png",
+      "sourceFilename": "黑色透明.png",
+      "sha256": "ca9f06b66f583a3c3eb8261316dfd299790f1f614fdcdf7a7d3965f3fd8000ed",
+      "mimeType": "image/png",
+      "extension": "png",
+      "bytes": 3932,
+      "size": "3.84 KB",
+      "width": 256,
+      "height": 256,
+      "dimensions": "256 x 256 px",
+      "objectKey": "public/opcglobal/opcglobal-logo-black-transparent-ca9f06b66f58/ca9f06b66f583a3c3eb8261316dfd299790f1f614fdcdf7a7d3965f3fd8000ed/original.png",
+      "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-black-transparent-ca9f06b66f58/ca9f06b66f583a3c3eb8261316dfd299790f1f614fdcdf7a7d3965f3fd8000ed/original.png",
+      "legacyUrls": [],
+      "status": "ready",
+      "version": 1,
+      "metadata": {
+        "importGroup": "opcglobal-official-logo-set",
+        "colorway": "black",
+        "primary": false,
+        "originalRelativePath": "黑色/黑色透明.png"
+      },
+      "backgroundTransparent": true,
+      "documentLogo": true
+    },
+    {
+      "id": "opcglobal-logo-blue-jpg-78995d0f5c1e",
+      "ownerType": "owned-ip",
+      "ownerId": "opcglobal",
+      "role": "logo",
+      "title": "OPC Global blue logo",
+      "access": "public",
+      "sourcePath": "OPCGLOBAL/assets/brand-images/blue-jpg.jpg",
+      "sourceFilename": "蓝色蓝色_白色透明.jpg",
+      "sha256": "78995d0f5c1e8a84b6cab4fbac635261a5c078b342dc14805547b18edae565a4",
+      "mimeType": "image/jpeg",
+      "extension": "jpg",
+      "bytes": 98119,
+      "size": "95.8 KB",
+      "width": 1063,
+      "height": 1063,
+      "dimensions": "1063 x 1063 px",
+      "objectKey": "public/opcglobal/opcglobal-logo-blue-jpg-78995d0f5c1e/78995d0f5c1e8a84b6cab4fbac635261a5c078b342dc14805547b18edae565a4/original.jpg",
+      "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-blue-jpg-78995d0f5c1e/78995d0f5c1e8a84b6cab4fbac635261a5c078b342dc14805547b18edae565a4/original.jpg",
+      "legacyUrls": [],
+      "status": "ready",
+      "version": 1,
+      "metadata": {
+        "importGroup": "opcglobal-official-logo-set",
+        "colorway": "blue",
+        "primary": false,
+        "originalRelativePath": "蓝色/蓝色蓝色_白色透明.jpg"
+      },
+      "backgroundTransparent": false,
+      "documentLogo": false
+    },
+    {
+      "id": "opcglobal-hero-opcglobal-brand-hero-8351935e9abc",
+      "ownerType": "owned-ip",
+      "ownerId": "opcglobal",
+      "role": "hero",
+      "title": "opcglobal brand hero",
+      "access": "public",
+      "sourcePath": "OPCGLOBAL/assets/brand-images/opcglobal-brand-hero.png",
+      "sourceFilename": "opcglobal-brand-hero.png",
+      "sha256": "8351935e9abc74b963309f2ec5677f22a9eaf4998c0e0cb59ecd55be42e4fe40",
+      "mimeType": "image/png",
+      "extension": "png",
+      "bytes": 1923799,
+      "size": "1.83 MB",
+      "width": 1672,
+      "height": 941,
+      "dimensions": "1672 x 941 px",
+      "objectKey": "public/opcglobal/opcglobal-hero-opcglobal-brand-hero-8351935e9abc/8351935e9abc74b963309f2ec5677f22a9eaf4998c0e0cb59ecd55be42e4fe40/original.png",
+      "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-hero-opcglobal-brand-hero-8351935e9abc/8351935e9abc74b963309f2ec5677f22a9eaf4998c0e0cb59ecd55be42e4fe40/original.png",
+      "legacyUrls": [
+        "/assets/brand-images/opcglobal.png"
+      ],
+      "status": "ready",
+      "version": 1
+    },
+    {
+      "id": "opcglobal-hero-primary-blue-c970696e04ab",
+      "ownerType": "owned-ip",
+      "ownerId": "opcglobal",
+      "role": "hero",
+      "title": "OPC Global primary blue logo",
+      "access": "public",
+      "sourcePath": "OPCGLOBAL/assets/brand-images/primary-blue.png",
+      "sourceFilename": "蓝色.png",
+      "sha256": "c970696e04ab2859dd66c7b85c2c1b461d06ede4e2d65ec6a97d9c11db1396b3",
+      "mimeType": "image/png",
+      "extension": "png",
+      "bytes": 4172,
+      "size": "4.07 KB",
+      "width": 256,
+      "height": 256,
+      "dimensions": "256 x 256 px",
+      "objectKey": "public/opcglobal/opcglobal-hero-primary-blue-c970696e04ab/c970696e04ab2859dd66c7b85c2c1b461d06ede4e2d65ec6a97d9c11db1396b3/original.png",
+      "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-hero-primary-blue-c970696e04ab/c970696e04ab2859dd66c7b85c2c1b461d06ede4e2d65ec6a97d9c11db1396b3/original.png",
+      "legacyUrls": [],
+      "status": "ready",
+      "version": 1,
+      "metadata": {
+        "importGroup": "opcglobal-official-logo-set",
+        "colorway": "blue",
+        "primary": true,
+        "originalRelativePath": "蓝色/蓝色.png"
+      },
+      "backgroundTransparent": true,
+      "documentLogo": true
+    },
+    {
+      "id": "opcglobal-logo-vector-b58c3be7390a",
+      "ownerType": "owned-ip",
+      "ownerId": "opcglobal",
+      "role": "logo",
+      "title": "OPC Global vector logo",
+      "access": "public",
+      "sourcePath": "OPCGLOBAL/assets/brand-images/vector.svg",
+      "sourceFilename": "logo-svg.svg",
+      "sha256": "b58c3be7390a1b625de8ad7d5c953fe8b95d1467692977c338c9b255f266502c",
+      "mimeType": "image/svg+xml",
+      "extension": "svg",
+      "bytes": 1603,
+      "size": "1.57 KB",
+      "width": 255,
+      "height": 255,
+      "dimensions": "255 x 255 px",
+      "objectKey": "public/opcglobal/opcglobal-logo-vector-b58c3be7390a/b58c3be7390a1b625de8ad7d5c953fe8b95d1467692977c338c9b255f266502c/original.svg",
+      "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-vector-b58c3be7390a/b58c3be7390a1b625de8ad7d5c953fe8b95d1467692977c338c9b255f266502c/original.svg",
+      "legacyUrls": [],
+      "status": "ready",
+      "version": 1,
+      "metadata": {
+        "importGroup": "opcglobal-official-logo-set",
+        "colorway": "monochrome",
+        "primary": false,
+        "originalRelativePath": "logo-svg.svg"
+      },
+      "backgroundTransparent": false,
+      "documentLogo": false
+    },
+    {
+      "id": "opcglobal-logo-white-jpg-d5eff2b4da39",
+      "ownerType": "owned-ip",
+      "ownerId": "opcglobal",
+      "role": "logo",
+      "title": "OPC Global white logo",
+      "access": "public",
+      "sourcePath": "OPCGLOBAL/assets/brand-images/white-jpg.jpg",
+      "sourceFilename": "白色.jpg",
+      "sha256": "d5eff2b4da3934baa24e81764426d26de564afd1b050fad8e36eacda40633da5",
+      "mimeType": "image/jpeg",
+      "extension": "jpg",
+      "bytes": 79832,
+      "size": "78.0 KB",
+      "width": 1063,
+      "height": 1063,
+      "dimensions": "1063 x 1063 px",
+      "objectKey": "public/opcglobal/opcglobal-logo-white-jpg-d5eff2b4da39/d5eff2b4da3934baa24e81764426d26de564afd1b050fad8e36eacda40633da5/original.jpg",
+      "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-white-jpg-d5eff2b4da39/d5eff2b4da3934baa24e81764426d26de564afd1b050fad8e36eacda40633da5/original.jpg",
+      "legacyUrls": [],
+      "status": "ready",
+      "version": 1,
+      "metadata": {
+        "importGroup": "opcglobal-official-logo-set",
+        "colorway": "white",
+        "primary": false,
+        "originalRelativePath": "白色/白色.jpg"
+      },
+      "backgroundTransparent": false,
+      "documentLogo": false
+    },
+    {
+      "id": "opcglobal-logo-white-transparent-f1f76209c767",
+      "ownerType": "owned-ip",
+      "ownerId": "opcglobal",
+      "role": "logo",
+      "title": "OPC Global white transparent logo",
+      "access": "public",
+      "sourcePath": "OPCGLOBAL/assets/brand-images/white-transparent.png",
+      "sourceFilename": "白色透明.png",
+      "sha256": "f1f76209c76744d1e9f7b4b692ab6f3b01e4df4e0e3b2a3cbb6e310be02dc8fe",
+      "mimeType": "image/png",
+      "extension": "png",
+      "bytes": 4194,
+      "size": "4.10 KB",
+      "width": 256,
+      "height": 256,
+      "dimensions": "256 x 256 px",
+      "objectKey": "public/opcglobal/opcglobal-logo-white-transparent-f1f76209c767/f1f76209c76744d1e9f7b4b692ab6f3b01e4df4e0e3b2a3cbb6e310be02dc8fe/original.png",
+      "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-white-transparent-f1f76209c767/f1f76209c76744d1e9f7b4b692ab6f3b01e4df4e0e3b2a3cbb6e310be02dc8fe/original.png",
+      "legacyUrls": [],
+      "status": "ready",
+      "version": 1,
+      "metadata": {
+        "importGroup": "opcglobal-official-logo-set",
+        "colorway": "white",
+        "primary": false,
+        "originalRelativePath": "白色/白色透明.png"
+      },
+      "backgroundTransparent": true,
+      "documentLogo": true
+    },
+    {
+      "id": "opcglobal-logo-yellow-jpg-0c3d48dedef6",
+      "ownerType": "owned-ip",
+      "ownerId": "opcglobal",
+      "role": "logo",
+      "title": "OPC Global yellow logo",
+      "access": "public",
+      "sourcePath": "OPCGLOBAL/assets/brand-images/yellow-jpg.jpg",
+      "sourceFilename": "黄色白色透明.jpg",
+      "sha256": "0c3d48dedef6da1720ab08fe37784b2e173503066821ebb0531cf15561fa481b",
+      "mimeType": "image/jpeg",
+      "extension": "jpg",
+      "bytes": 134717,
+      "size": "132 KB",
+      "width": 1063,
+      "height": 1063,
+      "dimensions": "1063 x 1063 px",
+      "objectKey": "public/opcglobal/opcglobal-logo-yellow-jpg-0c3d48dedef6/0c3d48dedef6da1720ab08fe37784b2e173503066821ebb0531cf15561fa481b/original.jpg",
+      "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-yellow-jpg-0c3d48dedef6/0c3d48dedef6da1720ab08fe37784b2e173503066821ebb0531cf15561fa481b/original.jpg",
+      "legacyUrls": [],
+      "status": "ready",
+      "version": 1,
+      "metadata": {
+        "importGroup": "opcglobal-official-logo-set",
+        "colorway": "yellow",
+        "primary": false,
+        "originalRelativePath": "黄色/黄色白色透明.jpg"
+      },
+      "backgroundTransparent": false,
+      "documentLogo": false
+    },
+    {
+      "id": "opcglobal-logo-yellow-transparent-9f71f58faaf3",
+      "ownerType": "owned-ip",
+      "ownerId": "opcglobal",
+      "role": "logo",
+      "title": "OPC Global yellow transparent logo",
+      "access": "public",
+      "sourcePath": "OPCGLOBAL/assets/brand-images/yellow-transparent.png",
+      "sourceFilename": "黄色.png",
+      "sha256": "9f71f58faaf3a693e9777af9cd6401cf46d927e7f78effd5b0a4d1eb1a9ba87d",
+      "mimeType": "image/png",
+      "extension": "png",
+      "bytes": 6355,
+      "size": "6.21 KB",
+      "width": 256,
+      "height": 256,
+      "dimensions": "256 x 256 px",
+      "objectKey": "public/opcglobal/opcglobal-logo-yellow-transparent-9f71f58faaf3/9f71f58faaf3a693e9777af9cd6401cf46d927e7f78effd5b0a4d1eb1a9ba87d/original.png",
+      "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-yellow-transparent-9f71f58faaf3/9f71f58faaf3a693e9777af9cd6401cf46d927e7f78effd5b0a4d1eb1a9ba87d/original.png",
+      "legacyUrls": [],
+      "status": "ready",
+      "version": 1,
+      "metadata": {
+        "importGroup": "opcglobal-official-logo-set",
+        "colorway": "yellow",
+        "primary": false,
+        "originalRelativePath": "黄色/黄色.png"
+      },
+      "backgroundTransparent": true,
+      "documentLogo": true
+    },
+    {
+      "id": "opcglobal-source-master-ai-79d455673610",
+      "ownerType": "owned-ip",
+      "ownerId": "opcglobal",
+      "role": "source",
+      "title": "OPC Global master artwork",
+      "access": "private",
+      "sourcePath": "OPCGLOBAL/assets/source/master-ai.ai",
+      "sourceFilename": "源文件.ai",
+      "sha256": "79d4556736109d27d5c78feb04f71f712fadc3b36ee6e60c00ffa4cdb793d72e",
+      "mimeType": "application/illustrator",
+      "extension": "ai",
+      "bytes": 223934,
+      "size": "219 KB",
+      "width": null,
+      "height": null,
+      "dimensions": "",
+      "objectKey": "private/opcglobal/opcglobal-source-master-ai-79d455673610/79d4556736109d27d5c78feb04f71f712fadc3b36ee6e60c00ffa4cdb793d72e/source.ai",
+      "mediaUrl": "https://media.apuch.art/private/opcglobal/opcglobal-source-master-ai-79d455673610/79d4556736109d27d5c78feb04f71f712fadc3b36ee6e60c00ffa4cdb793d72e/source.ai",
+      "legacyUrls": [],
+      "status": "ready",
+      "version": 1,
+      "metadata": {
+        "importGroup": "opcglobal-official-logo-set",
+        "colorway": "source",
+        "primary": false,
+        "originalRelativePath": "源文件.ai"
+      }
+    }
+  ],
+  "adobeAssets": [
+    {
+      "id": "opcglobal-logo-source",
+      "slug": "opcglobal",
+      "title": "OPC Global master artwork",
+      "source": {
+        "path": "OPCGLOBAL/assets/source/master-ai.ai",
+        "format": "AI",
+        "bytes": 223934,
+        "size": "219 KB",
+        "assetId": "opcglobal-source-master-ai-79d455673610",
+        "apiUrl": "api/v2/assets/opcglobal-source-master-ai-79d455673610",
+        "private": true,
+        "sha256": "79d4556736109d27d5c78feb04f71f712fadc3b36ee6e60c00ffa4cdb793d72e"
+      },
+      "preview": {
+        "path": "OPCGLOBAL/assets/brand-images/primary-blue.png",
+        "format": "PNG",
+        "bytes": 4172,
+        "size": "4.07 KB",
+        "width": 256,
+        "height": 256,
+        "dimensions": "256 x 256 px",
+        "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-hero-primary-blue-c970696e04ab/c970696e04ab2859dd66c7b85c2c1b461d06ede4e2d65ec6a97d9c11db1396b3/original.png",
+        "title": "OPC Global primary blue logo"
+      },
+      "hero": {
+        "path": "OPCGLOBAL/assets/brand-images/primary-blue.png",
+        "format": "PNG",
+        "bytes": 4172,
+        "size": "4.07 KB",
+        "width": 256,
+        "height": 256,
+        "dimensions": "256 x 256 px",
+        "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-hero-primary-blue-c970696e04ab/c970696e04ab2859dd66c7b85c2c1b461d06ede4e2d65ec6a97d9c11db1396b3/original.png",
+        "title": "OPC Global primary blue logo"
+      },
+      "exports": [],
+      "generatedAt": "2026-07-24T01:11:48.549Z",
+      "pipeline": "official-source"
+    }
+  ],
+  "logoUrl": "https://media.apuch.art/public/opcglobal/opcglobal-hero-primary-blue-c970696e04ab/c970696e04ab2859dd66c7b85c2c1b461d06ede4e2d65ec6a97d9c11db1396b3/original.png",
+  "assetKit": {
+    "assetKey": "opcglobal",
+    "endpoints": {
+      "brand": "api/brands/opcglobal.json",
+      "logo": "https://media.apuch.art/public/opcglobal/opcglobal-hero-primary-blue-c970696e04ab/c970696e04ab2859dd66c7b85c2c1b461d06ede4e2d65ec6a97d9c11db1396b3/original.png",
+      "images": "api/brands/opcglobal.json#images",
+      "adobe": "api/brands/opcglobal.json#adobeAssets",
+      "tokens": "api/brands/opcglobal.json#tokens",
+      "history": "api/history/opcglobal.json"
+    },
+    "moodboard": {
+      "colors": [
+        {
+          "key": "primary",
+          "value": "#1D3557"
+        },
+        {
+          "key": "accent",
+          "value": "#B79B63"
+        },
+        {
+          "key": "secondary",
+          "value": "#A23E3E"
+        },
+        {
+          "key": "surface",
+          "value": "#F3F5F6"
+        },
+        {
+          "key": "paper",
+          "value": "#FFFFFF"
+        },
+        {
+          "key": "ink",
+          "value": "#162130"
+        },
+        {
+          "key": "muted",
+          "value": "#596776"
+        }
+      ],
+      "keywords": [
+        "deep blue",
+        "graphite",
+        "gold",
+        "global alliance",
+        "standards"
+      ],
+      "images": [
+        {
+          "assetId": "opcglobal-hero-opcglobal-brand-hero-8351935e9abc",
+          "path": "OPCGLOBAL/assets/brand-images/opcglobal-brand-hero.png",
+          "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-hero-opcglobal-brand-hero-8351935e9abc/8351935e9abc74b963309f2ec5677f22a9eaf4998c0e0cb59ecd55be42e4fe40/original.png",
+          "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-hero-opcglobal-brand-hero-8351935e9abc/8351935e9abc74b963309f2ec5677f22a9eaf4998c0e0cb59ecd55be42e4fe40/original.png",
+          "title": "opcglobal brand hero",
+          "format": "PNG",
+          "bytes": 1923799,
+          "size": "1.83 MB",
+          "width": 1672,
+          "height": 941,
+          "dimensions": "1672 x 941 px",
+          "sha256": "8351935e9abc74b963309f2ec5677f22a9eaf4998c0e0cb59ecd55be42e4fe40",
+          "access": "public",
+          "colorway": "",
+          "primaryAsset": false,
+          "backgroundTransparent": false,
+          "documentLogo": false
+        },
+        {
+          "assetId": "opcglobal-logo-black-jpg-76a48309a215",
+          "path": "OPCGLOBAL/assets/brand-images/black-jpg.jpg",
+          "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-black-jpg-76a48309a215/76a48309a2156fdf1f1918955f202a1533bc708bec99c0bb65351942a6d169fa/original.jpg",
+          "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-black-jpg-76a48309a215/76a48309a2156fdf1f1918955f202a1533bc708bec99c0bb65351942a6d169fa/original.jpg",
+          "title": "OPC Global black logo",
+          "format": "JPG",
+          "bytes": 79558,
+          "size": "77.7 KB",
+          "width": 1063,
+          "height": 1063,
+          "dimensions": "1063 x 1063 px",
+          "sha256": "76a48309a2156fdf1f1918955f202a1533bc708bec99c0bb65351942a6d169fa",
+          "access": "public",
+          "colorway": "black",
+          "primaryAsset": false,
+          "backgroundTransparent": false,
+          "documentLogo": false
+        },
+        {
+          "assetId": "opcglobal-logo-black-transparent-ca9f06b66f58",
+          "path": "OPCGLOBAL/assets/brand-images/black-transparent.png",
+          "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-black-transparent-ca9f06b66f58/ca9f06b66f583a3c3eb8261316dfd299790f1f614fdcdf7a7d3965f3fd8000ed/original.png",
+          "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-black-transparent-ca9f06b66f58/ca9f06b66f583a3c3eb8261316dfd299790f1f614fdcdf7a7d3965f3fd8000ed/original.png",
+          "title": "OPC Global black transparent logo",
+          "format": "PNG",
+          "bytes": 3932,
+          "size": "3.84 KB",
+          "width": 256,
+          "height": 256,
+          "dimensions": "256 x 256 px",
+          "sha256": "ca9f06b66f583a3c3eb8261316dfd299790f1f614fdcdf7a7d3965f3fd8000ed",
+          "access": "public",
+          "colorway": "black",
+          "primaryAsset": false,
+          "backgroundTransparent": true,
+          "documentLogo": true
+        },
+        {
+          "assetId": "opcglobal-logo-blue-jpg-78995d0f5c1e",
+          "path": "OPCGLOBAL/assets/brand-images/blue-jpg.jpg",
+          "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-blue-jpg-78995d0f5c1e/78995d0f5c1e8a84b6cab4fbac635261a5c078b342dc14805547b18edae565a4/original.jpg",
+          "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-blue-jpg-78995d0f5c1e/78995d0f5c1e8a84b6cab4fbac635261a5c078b342dc14805547b18edae565a4/original.jpg",
+          "title": "OPC Global blue logo",
+          "format": "JPG",
+          "bytes": 98119,
+          "size": "95.8 KB",
+          "width": 1063,
+          "height": 1063,
+          "dimensions": "1063 x 1063 px",
+          "sha256": "78995d0f5c1e8a84b6cab4fbac635261a5c078b342dc14805547b18edae565a4",
+          "access": "public",
+          "colorway": "blue",
+          "primaryAsset": false,
+          "backgroundTransparent": false,
+          "documentLogo": false
+        },
+        {
+          "assetId": "opcglobal-hero-primary-blue-c970696e04ab",
+          "path": "OPCGLOBAL/assets/brand-images/primary-blue.png",
+          "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-hero-primary-blue-c970696e04ab/c970696e04ab2859dd66c7b85c2c1b461d06ede4e2d65ec6a97d9c11db1396b3/original.png",
+          "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-hero-primary-blue-c970696e04ab/c970696e04ab2859dd66c7b85c2c1b461d06ede4e2d65ec6a97d9c11db1396b3/original.png",
+          "title": "OPC Global primary blue logo",
+          "format": "PNG",
+          "bytes": 4172,
+          "size": "4.07 KB",
+          "width": 256,
+          "height": 256,
+          "dimensions": "256 x 256 px",
+          "sha256": "c970696e04ab2859dd66c7b85c2c1b461d06ede4e2d65ec6a97d9c11db1396b3",
+          "access": "public",
+          "colorway": "blue",
+          "primaryAsset": true,
+          "backgroundTransparent": true,
+          "documentLogo": true
+        },
+        {
+          "assetId": "opcglobal-logo-vector-b58c3be7390a",
+          "path": "OPCGLOBAL/assets/brand-images/vector.svg",
+          "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-vector-b58c3be7390a/b58c3be7390a1b625de8ad7d5c953fe8b95d1467692977c338c9b255f266502c/original.svg",
+          "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-vector-b58c3be7390a/b58c3be7390a1b625de8ad7d5c953fe8b95d1467692977c338c9b255f266502c/original.svg",
+          "title": "OPC Global vector logo",
+          "format": "SVG",
+          "bytes": 1603,
+          "size": "1.57 KB",
+          "width": 255,
+          "height": 255,
+          "dimensions": "255 x 255 px",
+          "sha256": "b58c3be7390a1b625de8ad7d5c953fe8b95d1467692977c338c9b255f266502c",
+          "access": "public",
+          "colorway": "monochrome",
+          "primaryAsset": false,
+          "backgroundTransparent": false,
+          "documentLogo": false
+        },
+        {
+          "assetId": "opcglobal-logo-white-jpg-d5eff2b4da39",
+          "path": "OPCGLOBAL/assets/brand-images/white-jpg.jpg",
+          "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-white-jpg-d5eff2b4da39/d5eff2b4da3934baa24e81764426d26de564afd1b050fad8e36eacda40633da5/original.jpg",
+          "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-white-jpg-d5eff2b4da39/d5eff2b4da3934baa24e81764426d26de564afd1b050fad8e36eacda40633da5/original.jpg",
+          "title": "OPC Global white logo",
+          "format": "JPG",
+          "bytes": 79832,
+          "size": "78.0 KB",
+          "width": 1063,
+          "height": 1063,
+          "dimensions": "1063 x 1063 px",
+          "sha256": "d5eff2b4da3934baa24e81764426d26de564afd1b050fad8e36eacda40633da5",
+          "access": "public",
+          "colorway": "white",
+          "primaryAsset": false,
+          "backgroundTransparent": false,
+          "documentLogo": false
+        },
+        {
+          "assetId": "opcglobal-logo-white-transparent-f1f76209c767",
+          "path": "OPCGLOBAL/assets/brand-images/white-transparent.png",
+          "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-white-transparent-f1f76209c767/f1f76209c76744d1e9f7b4b692ab6f3b01e4df4e0e3b2a3cbb6e310be02dc8fe/original.png",
+          "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-white-transparent-f1f76209c767/f1f76209c76744d1e9f7b4b692ab6f3b01e4df4e0e3b2a3cbb6e310be02dc8fe/original.png",
+          "title": "OPC Global white transparent logo",
+          "format": "PNG",
+          "bytes": 4194,
+          "size": "4.10 KB",
+          "width": 256,
+          "height": 256,
+          "dimensions": "256 x 256 px",
+          "sha256": "f1f76209c76744d1e9f7b4b692ab6f3b01e4df4e0e3b2a3cbb6e310be02dc8fe",
+          "access": "public",
+          "colorway": "white",
+          "primaryAsset": false,
+          "backgroundTransparent": true,
+          "documentLogo": true
+        },
+        {
+          "assetId": "opcglobal-logo-yellow-jpg-0c3d48dedef6",
+          "path": "OPCGLOBAL/assets/brand-images/yellow-jpg.jpg",
+          "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-yellow-jpg-0c3d48dedef6/0c3d48dedef6da1720ab08fe37784b2e173503066821ebb0531cf15561fa481b/original.jpg",
+          "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-yellow-jpg-0c3d48dedef6/0c3d48dedef6da1720ab08fe37784b2e173503066821ebb0531cf15561fa481b/original.jpg",
+          "title": "OPC Global yellow logo",
+          "format": "JPG",
+          "bytes": 134717,
+          "size": "132 KB",
+          "width": 1063,
+          "height": 1063,
+          "dimensions": "1063 x 1063 px",
+          "sha256": "0c3d48dedef6da1720ab08fe37784b2e173503066821ebb0531cf15561fa481b",
+          "access": "public",
+          "colorway": "yellow",
+          "primaryAsset": false,
+          "backgroundTransparent": false,
+          "documentLogo": false
+        },
+        {
+          "assetId": "opcglobal-logo-yellow-transparent-9f71f58faaf3",
+          "path": "OPCGLOBAL/assets/brand-images/yellow-transparent.png",
+          "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-yellow-transparent-9f71f58faaf3/9f71f58faaf3a693e9777af9cd6401cf46d927e7f78effd5b0a4d1eb1a9ba87d/original.png",
+          "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-yellow-transparent-9f71f58faaf3/9f71f58faaf3a693e9777af9cd6401cf46d927e7f78effd5b0a4d1eb1a9ba87d/original.png",
+          "title": "OPC Global yellow transparent logo",
+          "format": "PNG",
+          "bytes": 6355,
+          "size": "6.21 KB",
+          "width": 256,
+          "height": 256,
+          "dimensions": "256 x 256 px",
+          "sha256": "9f71f58faaf3a693e9777af9cd6401cf46d927e7f78effd5b0a4d1eb1a9ba87d",
+          "access": "public",
+          "colorway": "yellow",
+          "primaryAsset": false,
+          "backgroundTransparent": true,
+          "documentLogo": true
+        }
+      ]
+    }
+  },
+  "agent": {
+    "entry": "https://apuch.art/agent.json",
+    "mcp": "https://apuch.art/mcp",
+    "recommendedTool": "get_guideline",
+    "arguments": {
+      "assetKey": "opcglobal"
+    },
+    "conventions": {
+      "primaryNameField": "mainName",
+      "primaryLanguageField": "mainLanguage",
+      "exactColorField": "theme",
+      "canonicalLogoField": "logoUrl",
+      "publicAssetField": "images",
+      "provenanceField": "sources"
+    }
+  },
+  "moodboard": {
+    "colors": [
+      {
+        "key": "primary",
+        "value": "#1D3557"
+      },
+      {
+        "key": "accent",
+        "value": "#B79B63"
+      },
+      {
+        "key": "secondary",
+        "value": "#A23E3E"
+      },
+      {
+        "key": "surface",
+        "value": "#F3F5F6"
+      },
+      {
+        "key": "paper",
+        "value": "#FFFFFF"
+      },
+      {
+        "key": "ink",
+        "value": "#162130"
+      },
+      {
+        "key": "muted",
+        "value": "#596776"
+      }
+    ],
+    "keywords": [
+      "deep blue",
+      "graphite",
+      "gold",
+      "global alliance",
+      "standards"
+    ],
+    "images": [
+      {
+        "assetId": "opcglobal-hero-opcglobal-brand-hero-8351935e9abc",
+        "path": "OPCGLOBAL/assets/brand-images/opcglobal-brand-hero.png",
+        "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-hero-opcglobal-brand-hero-8351935e9abc/8351935e9abc74b963309f2ec5677f22a9eaf4998c0e0cb59ecd55be42e4fe40/original.png",
+        "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-hero-opcglobal-brand-hero-8351935e9abc/8351935e9abc74b963309f2ec5677f22a9eaf4998c0e0cb59ecd55be42e4fe40/original.png",
+        "title": "opcglobal brand hero",
+        "format": "PNG",
+        "bytes": 1923799,
+        "size": "1.83 MB",
+        "width": 1672,
+        "height": 941,
+        "dimensions": "1672 x 941 px",
+        "sha256": "8351935e9abc74b963309f2ec5677f22a9eaf4998c0e0cb59ecd55be42e4fe40",
+        "access": "public",
+        "colorway": "",
+        "primaryAsset": false,
+        "backgroundTransparent": false,
+        "documentLogo": false
+      },
+      {
+        "assetId": "opcglobal-logo-black-jpg-76a48309a215",
+        "path": "OPCGLOBAL/assets/brand-images/black-jpg.jpg",
+        "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-black-jpg-76a48309a215/76a48309a2156fdf1f1918955f202a1533bc708bec99c0bb65351942a6d169fa/original.jpg",
+        "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-black-jpg-76a48309a215/76a48309a2156fdf1f1918955f202a1533bc708bec99c0bb65351942a6d169fa/original.jpg",
+        "title": "OPC Global black logo",
+        "format": "JPG",
+        "bytes": 79558,
+        "size": "77.7 KB",
+        "width": 1063,
+        "height": 1063,
+        "dimensions": "1063 x 1063 px",
+        "sha256": "76a48309a2156fdf1f1918955f202a1533bc708bec99c0bb65351942a6d169fa",
+        "access": "public",
+        "colorway": "black",
+        "primaryAsset": false,
+        "backgroundTransparent": false,
+        "documentLogo": false
+      },
+      {
+        "assetId": "opcglobal-logo-black-transparent-ca9f06b66f58",
+        "path": "OPCGLOBAL/assets/brand-images/black-transparent.png",
+        "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-black-transparent-ca9f06b66f58/ca9f06b66f583a3c3eb8261316dfd299790f1f614fdcdf7a7d3965f3fd8000ed/original.png",
+        "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-black-transparent-ca9f06b66f58/ca9f06b66f583a3c3eb8261316dfd299790f1f614fdcdf7a7d3965f3fd8000ed/original.png",
+        "title": "OPC Global black transparent logo",
+        "format": "PNG",
+        "bytes": 3932,
+        "size": "3.84 KB",
+        "width": 256,
+        "height": 256,
+        "dimensions": "256 x 256 px",
+        "sha256": "ca9f06b66f583a3c3eb8261316dfd299790f1f614fdcdf7a7d3965f3fd8000ed",
+        "access": "public",
+        "colorway": "black",
+        "primaryAsset": false,
+        "backgroundTransparent": true,
+        "documentLogo": true
+      },
+      {
+        "assetId": "opcglobal-logo-blue-jpg-78995d0f5c1e",
+        "path": "OPCGLOBAL/assets/brand-images/blue-jpg.jpg",
+        "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-blue-jpg-78995d0f5c1e/78995d0f5c1e8a84b6cab4fbac635261a5c078b342dc14805547b18edae565a4/original.jpg",
+        "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-blue-jpg-78995d0f5c1e/78995d0f5c1e8a84b6cab4fbac635261a5c078b342dc14805547b18edae565a4/original.jpg",
+        "title": "OPC Global blue logo",
+        "format": "JPG",
+        "bytes": 98119,
+        "size": "95.8 KB",
+        "width": 1063,
+        "height": 1063,
+        "dimensions": "1063 x 1063 px",
+        "sha256": "78995d0f5c1e8a84b6cab4fbac635261a5c078b342dc14805547b18edae565a4",
+        "access": "public",
+        "colorway": "blue",
+        "primaryAsset": false,
+        "backgroundTransparent": false,
+        "documentLogo": false
+      },
+      {
+        "assetId": "opcglobal-hero-primary-blue-c970696e04ab",
+        "path": "OPCGLOBAL/assets/brand-images/primary-blue.png",
+        "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-hero-primary-blue-c970696e04ab/c970696e04ab2859dd66c7b85c2c1b461d06ede4e2d65ec6a97d9c11db1396b3/original.png",
+        "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-hero-primary-blue-c970696e04ab/c970696e04ab2859dd66c7b85c2c1b461d06ede4e2d65ec6a97d9c11db1396b3/original.png",
+        "title": "OPC Global primary blue logo",
+        "format": "PNG",
+        "bytes": 4172,
+        "size": "4.07 KB",
+        "width": 256,
+        "height": 256,
+        "dimensions": "256 x 256 px",
+        "sha256": "c970696e04ab2859dd66c7b85c2c1b461d06ede4e2d65ec6a97d9c11db1396b3",
+        "access": "public",
+        "colorway": "blue",
+        "primaryAsset": true,
+        "backgroundTransparent": true,
+        "documentLogo": true
+      },
+      {
+        "assetId": "opcglobal-logo-vector-b58c3be7390a",
+        "path": "OPCGLOBAL/assets/brand-images/vector.svg",
+        "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-vector-b58c3be7390a/b58c3be7390a1b625de8ad7d5c953fe8b95d1467692977c338c9b255f266502c/original.svg",
+        "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-vector-b58c3be7390a/b58c3be7390a1b625de8ad7d5c953fe8b95d1467692977c338c9b255f266502c/original.svg",
+        "title": "OPC Global vector logo",
+        "format": "SVG",
+        "bytes": 1603,
+        "size": "1.57 KB",
+        "width": 255,
+        "height": 255,
+        "dimensions": "255 x 255 px",
+        "sha256": "b58c3be7390a1b625de8ad7d5c953fe8b95d1467692977c338c9b255f266502c",
+        "access": "public",
+        "colorway": "monochrome",
+        "primaryAsset": false,
+        "backgroundTransparent": false,
+        "documentLogo": false
+      },
+      {
+        "assetId": "opcglobal-logo-white-jpg-d5eff2b4da39",
+        "path": "OPCGLOBAL/assets/brand-images/white-jpg.jpg",
+        "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-white-jpg-d5eff2b4da39/d5eff2b4da3934baa24e81764426d26de564afd1b050fad8e36eacda40633da5/original.jpg",
+        "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-white-jpg-d5eff2b4da39/d5eff2b4da3934baa24e81764426d26de564afd1b050fad8e36eacda40633da5/original.jpg",
+        "title": "OPC Global white logo",
+        "format": "JPG",
+        "bytes": 79832,
+        "size": "78.0 KB",
+        "width": 1063,
+        "height": 1063,
+        "dimensions": "1063 x 1063 px",
+        "sha256": "d5eff2b4da3934baa24e81764426d26de564afd1b050fad8e36eacda40633da5",
+        "access": "public",
+        "colorway": "white",
+        "primaryAsset": false,
+        "backgroundTransparent": false,
+        "documentLogo": false
+      },
+      {
+        "assetId": "opcglobal-logo-white-transparent-f1f76209c767",
+        "path": "OPCGLOBAL/assets/brand-images/white-transparent.png",
+        "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-white-transparent-f1f76209c767/f1f76209c76744d1e9f7b4b692ab6f3b01e4df4e0e3b2a3cbb6e310be02dc8fe/original.png",
+        "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-white-transparent-f1f76209c767/f1f76209c76744d1e9f7b4b692ab6f3b01e4df4e0e3b2a3cbb6e310be02dc8fe/original.png",
+        "title": "OPC Global white transparent logo",
+        "format": "PNG",
+        "bytes": 4194,
+        "size": "4.10 KB",
+        "width": 256,
+        "height": 256,
+        "dimensions": "256 x 256 px",
+        "sha256": "f1f76209c76744d1e9f7b4b692ab6f3b01e4df4e0e3b2a3cbb6e310be02dc8fe",
+        "access": "public",
+        "colorway": "white",
+        "primaryAsset": false,
+        "backgroundTransparent": true,
+        "documentLogo": true
+      },
+      {
+        "assetId": "opcglobal-logo-yellow-jpg-0c3d48dedef6",
+        "path": "OPCGLOBAL/assets/brand-images/yellow-jpg.jpg",
+        "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-yellow-jpg-0c3d48dedef6/0c3d48dedef6da1720ab08fe37784b2e173503066821ebb0531cf15561fa481b/original.jpg",
+        "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-yellow-jpg-0c3d48dedef6/0c3d48dedef6da1720ab08fe37784b2e173503066821ebb0531cf15561fa481b/original.jpg",
+        "title": "OPC Global yellow logo",
+        "format": "JPG",
+        "bytes": 134717,
+        "size": "132 KB",
+        "width": 1063,
+        "height": 1063,
+        "dimensions": "1063 x 1063 px",
+        "sha256": "0c3d48dedef6da1720ab08fe37784b2e173503066821ebb0531cf15561fa481b",
+        "access": "public",
+        "colorway": "yellow",
+        "primaryAsset": false,
+        "backgroundTransparent": false,
+        "documentLogo": false
+      },
+      {
+        "assetId": "opcglobal-logo-yellow-transparent-9f71f58faaf3",
+        "path": "OPCGLOBAL/assets/brand-images/yellow-transparent.png",
+        "sitePath": "https://media.apuch.art/public/opcglobal/opcglobal-logo-yellow-transparent-9f71f58faaf3/9f71f58faaf3a693e9777af9cd6401cf46d927e7f78effd5b0a4d1eb1a9ba87d/original.png",
+        "mediaUrl": "https://media.apuch.art/public/opcglobal/opcglobal-logo-yellow-transparent-9f71f58faaf3/9f71f58faaf3a693e9777af9cd6401cf46d927e7f78effd5b0a4d1eb1a9ba87d/original.png",
+        "title": "OPC Global yellow transparent logo",
+        "format": "PNG",
+        "bytes": 6355,
+        "size": "6.21 KB",
+        "width": 256,
+        "height": 256,
+        "dimensions": "256 x 256 px",
+        "sha256": "9f71f58faaf3a693e9777af9cd6401cf46d927e7f78effd5b0a4d1eb1a9ba87d",
+        "access": "public",
+        "colorway": "yellow",
+        "primaryAsset": false,
+        "backgroundTransparent": true,
+        "documentLogo": true
+      }
+    ]
+  },
+  "editablePaths": [],
+  "source": {
+    "github": "https://github.com/ksamint/tableai_designaha/tree/main/OPCGLOBAL",
+    "folder": "OPCGLOBAL"
+  },
+  "designSystemUrl": "https://github.com/ksamint/dsys_opcglobal"
+}

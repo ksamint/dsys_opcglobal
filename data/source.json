@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/ksamint/tableai_designaha",
+  "commit": "17e8486df5cc2896049164fdef9c876e5790897b",
+  "folder": "OPCGLOBAL",
+  "brandApi": "https://apuch.art/api/brands/opcglobal.json",
+  "retrievedAt": "2026-09-19T12:56:54.843439+00:00",
+  "files": {
+    "OPCGLOBAL/.gitkeep": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "OPCGLOBAL/assets/adobe-assets/opcglobal-logo.json": "b26b06c3e6fd3dff8f1eb71d9fa74042a141bdf7a9df22fb2aba1494f8457473"
+  }
+}

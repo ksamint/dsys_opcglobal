@@ -1,0 +1,77 @@
+{
+  "slug": "opcglobal",
+  "folder": "OPCGLOBAL",
+  "name": "OPC Global",
+  "nativeName": "欧匹赛全球联盟",
+  "description": "OPC Global is a global alliance IP for collaboration, standards, and resource connection.",
+  "officialWebsite": "https://opcglobal.ai",
+  "mainLanguage": "en",
+  "intro": {
+    "zh": "欧匹赛全球联盟是面向全球协作、标准与资源连接的 IP。",
+    "en": "OPC Global is a global alliance IP for collaboration, standards, and resource connection."
+  },
+  "business": {
+    "zh": "全球联盟、标准建设与跨区域协作。",
+    "en": "Global alliance, standards, and cross-region collaboration."
+  },
+  "primaryGuide": "",
+  "theme": {
+    "mode": "light",
+    "primary": "#1D3557",
+    "accent": "#B79B63",
+    "secondary": "#A23E3E",
+    "surface": "#F3F5F6",
+    "paper": "#FFFFFF",
+    "ink": "#162130",
+    "muted": "#596776",
+    "line": "rgba(29, 53, 87, 0.16)",
+    "keywords": [
+      "deep blue",
+      "graphite",
+      "gold",
+      "global alliance",
+      "standards"
+    ]
+  },
+  "classification": {
+    "tracks": {
+      "zh": [
+        "全球联盟",
+        "标准建设",
+        "跨区域协作"
+      ],
+      "en": [
+        "Global alliance",
+        "Standards",
+        "Cross-region collaboration"
+      ]
+    },
+    "audiences": {
+      "zh": [
+        "国际伙伴",
+        "联盟机构",
+        "标准制定团队"
+      ],
+      "en": [
+        "International partners",
+        "Alliance institutions",
+        "Standards teams"
+      ]
+    },
+    "tags": {
+      "zh": [
+        "全球",
+        "联盟",
+        "标准",
+        "协作"
+      ],
+      "en": [
+        "Global",
+        "Alliance",
+        "Standards",
+        "Collaboration"
+      ]
+    }
+  },
+  "designSystemUrl": "https://github.com/ksamint/dsys_opcglobal"
+}
