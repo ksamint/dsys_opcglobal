@@ -1,0 +1,40 @@
+:root{
+/* Families — Google Fonts substitutes; no typography spec exists in the brand source */
+--font-display:"Libre Caslon Text","Noto Serif SC",Georgia,"Times New Roman",serif;
+--font-sans:"Manrope","Noto Sans SC",system-ui,-apple-system,"Segoe UI",sans-serif;
+--font-mono:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+/* Scale (px) */
+--text-xs:12px;
+--text-sm:13px;
+--text-base:15px;
+--text-md:17px;
+--text-lg:20px;
+--text-xl:24px;
+--text-2xl:32px;
+--text-3xl:44px;
+--text-4xl:60px;
+/* Line heights */
+--leading-tight:1.1;
+--leading-snug:1.25;
+--leading-normal:1.5;
+--leading-relaxed:1.65;
+/* Tracking */
+--tracking-tight:-0.01em;
+--tracking-normal:0;
+--tracking-eyebrow:0.14em;
+/* Weights */
+--weight-regular:400;
+--weight-medium:500;
+--weight-semibold:600;
+--weight-bold:700;
+/* Semantic type roles */
+--type-display:var(--weight-regular) var(--text-4xl)/var(--leading-tight) var(--font-display);
+--type-h1:var(--weight-regular) var(--text-3xl)/var(--leading-tight) var(--font-display);
+--type-h2:var(--weight-regular) var(--text-2xl)/var(--leading-snug) var(--font-display);
+--type-h3:var(--weight-semibold) var(--text-lg)/var(--leading-snug) var(--font-sans);
+--type-body:var(--weight-regular) var(--text-base)/var(--leading-relaxed) var(--font-sans);
+--type-body-lg:var(--weight-regular) var(--text-md)/var(--leading-relaxed) var(--font-sans);
+--type-small:var(--weight-regular) var(--text-sm)/var(--leading-normal) var(--font-sans);
+--type-eyebrow:var(--weight-semibold) var(--text-xs)/1 var(--font-sans);
+--type-mono:var(--weight-regular) var(--text-sm)/var(--leading-normal) var(--font-mono);
+}

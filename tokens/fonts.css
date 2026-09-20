@@ -1,0 +1,3 @@
+/* Substitute webfonts (Google Fonts). The brand source ships no font files. Replace with licensed brand fonts when available.
+   CJK fallbacks (Noto Serif SC / Noto Sans SC) are named in the stacks but not loaded here — their unicode-range subsets are very heavy; add them if the deployment needs guaranteed CJK glyphs. */
+@import url("https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Manrope:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap");

@@ -1,0 +1,25 @@
+<!-- @dsCard group="Components" viewport="700x330" name="Surfaces" subtitle="Card tones and slots; Badge tones; Tag states" -->
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><link rel="stylesheet" href="../../styles.css">
+<style>body{margin:0;padding:16px;width:700px;height:330px;box-sizing:border-box;overflow:hidden;background:var(--opc-surface)}.row{display:flex;align-items:center;gap:8px;flex-wrap:wrap}</style>
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+<script src="../../_ds_bundle.js"></script></head>
+<body><div id="root"></div>
+<script type="text/babel">
+const { Card, Badge, Tag, Button, Icon } = window.OPCGlobalDesignSystem_c086b9;
+function Demo(){
+  const [sel, setSel] = React.useState(true);
+  const [tags, setTags] = React.useState(['Europe','Americas']);
+  return <div style={{display:'flex',flexDirection:'column',gap:14}}>
+    <div style={{display:'grid',gridTemplateColumns:'1fr 1fr 1fr',gap:12}}>
+      <Card eyebrow="01 — Standards" title="Membership charter" description="Baseline obligations for alliance institutions." interactive padding={20} footer={<><Badge tone="success" dot>Ratified</Badge><span style={{font:'var(--type-mono)',color:'var(--text-muted)',marginLeft:'auto'}}>OPC-STD-001</span></>} />
+      <Card tone="navy" eyebrow="Alliance" title="Cross-region collaboration" description="Working groups across four regions." padding={20} />
+      <Card media={<img src="../../assets/brand/opcglobal-brand-hero.jpg" alt="" style={{width:'100%',height:84,objectFit:'cover'}} />} title="Annual assembly 2026" description="Programme and registration." padding={16} interactive />
+    </div>
+    <div className="row"><Badge tone="info">Draft</Badge><Badge tone="warning" dot>In review</Badge><Badge tone="success" dot>Ratified</Badge><Badge tone="danger">Withdrawn</Badge><Badge>Neutral</Badge><Badge tone="navy">12 members</Badge><Badge tone="gold">Founding</Badge><Badge size="sm" tone="info">sm</Badge></div>
+    <div className="row"><Tag>Asia-Pacific</Tag><Tag selected={sel} onSelect={()=>setSel(!sel)}>Standards (toggle)</Tag><Tag onSelect={()=>{}}>Hover me</Tag>{tags.map(t=><Tag key={t} onRemove={()=>setTags(tags.filter(x=>x!==t))}>{t}</Tag>)}<Tag disabled>Archived</Tag></div>
+  </div>;
+}
+ReactDOM.createRoot(document.getElementById('root')).render(<Demo />);
+</script></body></html>

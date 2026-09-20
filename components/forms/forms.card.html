@@ -1,0 +1,38 @@
+<!-- @dsCard group="Components" viewport="700x400" name="Forms" subtitle="Input, Select, Checkbox, Radio, Switch — default, focus, error, disabled" -->
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><link rel="stylesheet" href="../../styles.css">
+<style>body{margin:0;padding:16px;width:700px;height:400px;box-sizing:border-box;overflow:hidden;background:var(--opc-paper)}.grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px 20px}.col{display:flex;flex-direction:column;gap:12px}</style>
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+<script src="../../_ds_bundle.js"></script></head>
+<body><div id="root"></div>
+<script type="text/babel">
+const { Input, Select, Checkbox, Radio, Switch, Icon } = window.OPCGlobalDesignSystem_c086b9;
+function Demo(){
+  return <div className="grid">
+    <div className="col">
+      <Input label="Organisation" placeholder="Institution or company" required />
+      <Input label="Work email" type="email" defaultValue="standards@example.org" leading={<Icon name="mail" />} hint="We reply within five working days." />
+      <Input label="Member ID" defaultValue="OPC-12" error="Enter an ID in the form OPC-000000." />
+      <Input size="sm" placeholder="Search standards" leading={<Icon name="search" size="sm" />} />
+    </div>
+    <div className="col">
+      <Select label="Region" placeholder="Select a region" options={["Asia-Pacific","Europe","Americas","Middle East & Africa"]} />
+      <Select label="Membership tier" options={[{value:"inst",label:"Alliance institution"},{value:"partner",label:"International partner"}]} defaultValue="inst" />
+      <Select label="Disabled" options={["Draft"]} defaultValue="Draft" disabled />
+      <Input label="Disabled" placeholder="Not editable" disabled />
+    </div>
+    <div className="col">
+      <Checkbox label="I agree to the membership charter" defaultChecked />
+      <Checkbox label="Standards working group" description="Receive drafts for comment." />
+      <Checkbox label="All regions" indeterminate />
+      <Checkbox label="Archived" disabled />
+      <Radio name="tier" value="a" label="Alliance institution" defaultChecked />
+      <Radio name="tier" value="b" label="International partner" />
+      <Switch label="Email me new drafts" defaultChecked />
+      <Switch label="Public member profile" />
+    </div>
+  </div>;
+}
+ReactDOM.createRoot(document.getElementById('root')).render(<Demo />);
+</script></body></html>

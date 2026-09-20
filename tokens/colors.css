@@ -1,0 +1,57 @@
+:root{
+/* Brand palette — exact values from data/theme.json (ksamint/dsys_opcglobal) */
+--opc-navy:#1D3557;
+--opc-navy-deep:#0A1626; /* sampled from the official primary-blue logo PNG */
+--opc-navy-hover:#16294A;
+--opc-navy-active:#112039;
+--opc-navy-tint:#E8EDF4;
+--opc-gold:#B79B63;
+--opc-gold-deep:#A88B52; /* sampled from the official yellow logo PNG */
+--opc-gold-tint:#F5F0E4;
+--opc-red:#A23E3E;
+--opc-red-tint:#F6E9E9;
+/* Neutrals */
+--opc-paper:#FFFFFF;
+--opc-surface:#F3F5F6;
+--opc-surface-2:#E9EDF0;
+--opc-ink:#162130;
+--opc-muted:#596776;
+--opc-faint:#8A95A3;
+--opc-line:rgba(29,53,87,0.16);
+--opc-line-strong:rgba(29,53,87,0.32);
+--opc-line-gold:rgba(183,155,99,0.6);
+/* Semantic status (derived; not in the source theme) */
+--opc-success:#2F7A5B;
+--opc-success-tint:#E6F2EC;
+--opc-warning:#B79B63;
+--opc-warning-tint:#F5F0E4;
+--opc-danger:#A23E3E;
+--opc-danger-tint:#F6E9E9;
+--opc-info:#1D3557;
+--opc-info-tint:#E8EDF4;
+/* Semantic aliases */
+--color-primary:var(--opc-navy);
+--color-primary-hover:var(--opc-navy-hover);
+--color-primary-active:var(--opc-navy-active);
+--color-on-primary:#FFFFFF;
+--color-accent:var(--opc-gold);
+--color-secondary:var(--opc-red);
+--text-body:var(--opc-ink);
+--text-heading:var(--opc-navy);
+--text-muted:var(--opc-muted);
+--text-faint:var(--opc-faint);
+--text-inverse:#FFFFFF;
+--text-link:var(--opc-navy);
+--text-link-hover:var(--opc-gold-deep);
+--surface-page:var(--opc-paper);
+--surface-band:var(--opc-surface);
+--surface-card:var(--opc-paper);
+--surface-raised:var(--opc-paper);
+--surface-inverse:var(--opc-navy);
+--surface-inverse-deep:var(--opc-navy-deep);
+--border-default:var(--opc-line);
+--border-strong:var(--opc-line-strong);
+--border-accent:var(--opc-line-gold);
+--focus-ring:0 0 0 3px rgba(183,155,99,0.45);
+--overlay-scrim:rgba(10,22,38,0.56);
+}
