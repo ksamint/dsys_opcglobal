@@ -1,0 +1,24 @@
+<!-- @dsCard group="Components" viewport="700x220" name="Navigation" subtitle="Tabs — underline with counts, segmented, small, disabled" -->
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><link rel="stylesheet" href="../../styles.css">
+<style>body{margin:0;padding:16px;width:700px;height:220px;box-sizing:border-box;overflow:hidden;background:var(--opc-paper)}</style>
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+<script src="../../_ds_bundle.js"></script></head>
+<body><div id="root"></div>
+<script type="text/babel">
+const { Tabs, Icon } = window.OPCGlobalDesignSystem_c086b9;
+function Demo(){
+  const [tab, setTab] = React.useState('all');
+  return <div style={{display:'flex',flexDirection:'column',gap:20}}>
+    <Tabs items={[{id:'all',label:'All standards',count:24},{id:'draft',label:'Draft',count:6},{id:'review',label:'In review',count:3},{id:'ratified',label:'Ratified',count:15},{id:'archived',label:'Archived',disabled:true}]} value={tab} onChange={setTab} />
+    <div style={{display:'flex',gap:24,alignItems:'center'}}>
+      <Tabs variant="segmented" items={[{id:'list',label:'List',icon:<Icon name="list" size="sm" />},{id:'map',label:'Map',icon:<Icon name="map" size="sm" />},{id:'timeline',label:'Timeline',icon:<Icon name="calendar" size="sm" />}]} defaultValue="list" />
+      <Tabs variant="segmented" size="sm" items={[{id:'en',label:'EN'},{id:'zh',label:'中文'}]} defaultValue="en" />
+      <Tabs size="sm" items={[{id:'a',label:'Overview'},{id:'b',label:'Members'},{id:'c',label:'Docs'}]} defaultValue="b" />
+    </div>
+    <div style={{font:'var(--type-small)',color:'var(--text-muted)'}}>Active: <code>{tab}</code> · Arrow keys move between tabs</div>
+  </div>;
+}
+ReactDOM.createRoot(document.getElementById('root')).render(<Demo />);
+</script></body></html>
